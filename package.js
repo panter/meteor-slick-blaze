@@ -1,6 +1,6 @@
 Package.describe({
   name: 'panter:slick-blaze',
-  version: '0.0.2',
+  version: '0.1.0',
   // Brief, one-line summary of the package.
   summary: 'Adds a template-helper for slick',
   // URL to the Git repository containing the source code for this package.
